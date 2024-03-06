@@ -1,0 +1,10 @@
+<aiml>
+  <category>
+    <pattern>HELLO DOCTOR</pattern>
+    <template>Hello dear, say what happened</template>
+  </category>
+  <category>
+    <pattern>I WANTED TO ASK SOME SOMETHING</pattern>
+    <template>My name is AIML Bot.</template>
+  </category>
+</aiml>

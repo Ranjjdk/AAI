@@ -1,0 +1,9 @@
+<aiml encoding="UTF-8" version="1.0.1">
+  <category>
+    <pattern>LOAD AIML B</pattern>
+    <template>
+      <learn>chatbot.aiml</learn>
+    </template>
+  </category>
+</aiml>
+
